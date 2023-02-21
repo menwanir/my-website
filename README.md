@@ -7,6 +7,7 @@ this is a change in update file
 
 updated locally
 
-## Purpose 
+##  Repository Purpose
+changing git file
+changing the file
 
-updated for conflict , done locally
