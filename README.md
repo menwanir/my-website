@@ -13,3 +13,7 @@ changing the file
 
 
 Changed the header
+
+
+## Getting started
+Added the getting started
